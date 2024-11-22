@@ -10,5 +10,5 @@ Chris - [Giliam, 6th daughter of Ravistel](/madraconteur/Campaign H/Player Chara
 
 Brenden - [Stump](/madraconteur/Campaign H/Player Characters/Stump)
 
-Sam - [Geight "Gate" Foretree]/madraconteur/Campaign H/(Player Characters/Geight Foretree)
+Sam - [Geight "Gate" Foretree](/madraconteur/Campaign H/Player Characters/Geight Foretree)
 
